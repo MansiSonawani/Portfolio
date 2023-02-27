@@ -3,6 +3,10 @@
 To install dependencies - 
 
 
-npm init vite
-npm install
-npm install three
+#npm init vite
+#npm install
+#npm install three
+
+
+
+Made using ThreeJs
