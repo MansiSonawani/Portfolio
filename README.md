@@ -3,9 +3,13 @@
 To install dependencies - 
 
 
-#npm init vite
-#npm install
-#npm install three
+
+<ul>
+<li>npm init vite</li>
+<li>npm install</li>
+<li>npm install three</li>
+<li>npm run dev</li>
+</ul>
 
 
 
